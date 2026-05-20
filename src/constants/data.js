@@ -12,14 +12,14 @@ import {
   Users,
   Award,
   ArrowRight,
-  Github,
-  Twitter,
-  Linkedin,
-  Instagram,
+  GithubIcon,
+  TwitterIcon,
+  LinkedinIcon,
+  InstagramIcon,
   Mail,
   Phone,
-  MapPin,
-} from 'lucide-react';
+  MapPin
+} from "lucide-react";
 
 /**
  * AXIOM — Site Content Data
