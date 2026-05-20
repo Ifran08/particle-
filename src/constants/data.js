@@ -37,10 +37,10 @@ export const navLinks = [
 
 // Social links
 export const socialLinks = [
-  { name: 'Twitter', icon: Twitter, href: '#' },
-  { name: 'LinkedIn', icon: Linkedin, href: '#' },
-  { name: 'Instagram', icon: Instagram, href: '#' },
-  { name: 'GitHub', icon: Github, href: '#' },
+  { name: 'Twitter', icon: TwitterIcon, href: '#' },
+  { name: 'LinkedIn', icon: LinkedinIcon, href: '#' },
+  { name: 'Instagram', icon: InstagramIcon, href: '#' },
+  { name: 'GitHub', icon: GithubIcon, href: '#' },
 ];
 
 // Stats / Trust indicators
